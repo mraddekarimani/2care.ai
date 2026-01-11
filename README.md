@@ -2,9 +2,9 @@
 
 A modern, secure digital health wallet application built with React, TypeScript, and Supabase. Manage, track, and securely share your medical records with healthcare providers.
 
-live : https://digital-health-walle-8pcd.bolt.host/
-repo : https://github.com/mraddekarimani/2care.ai/tree/main
-record video : https://www.loom.com/share/3ff4af7a6d534248aedc3c65e77b6104
+#live : https://digital-health-walle-8pcd.bolt.host/
+#repository : https://github.com/mraddekarimani/2care.ai/tree/main
+#Recorded video : https://www.loom.com/share/3ff4af7a6d534248aedc3c65e77b6104
 
 ## Table of Contents
 
